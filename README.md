@@ -17,6 +17,6 @@ This codebase supports the study **"Detection of Pneumonia in Children through C
 ## Instructions for Use
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Taofeeq-T/Under5-Pneumonia-AI-detection
    
    
