@@ -7,7 +7,7 @@ This repository contains code for detecting pneumonia in children under-5 years 
 This codebase supports the study **"Detection of Pneumonia in Children through Chest Radiographs using Artificial Intelligence in a Low-Resource Setting: A Pilot Study"**. The preprint will be provided soon with detailed insights on performance and methodology.
 
 ## Repository Structure
-- **data/**: Dataset link and placeholders for data files.
+- **data/**: The training and internal test data from UC San Diego associated with the study is found at *http://dx.doi.org/10.17632/rscbjbr9sj.2* The external test data collected in Nigeria is found at *https://doi.org/10.5281/zenodo.14185822*
 - **src/**: Source code for data preprocessing, model building, training, fine-tuning, and evaluation.
   - **preprocessing/**: Scripts for dataset preparation.
   - **model/**: Scripts for model architecture, training, fine-tuning, and hyperparameter tuning.
